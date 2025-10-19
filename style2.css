@@ -1,0 +1,53 @@
+body {
+    border-radius: 50%;
+    width: 30%;
+    background-color: rgb(241, 244, 242);
+    align-items: center;
+    text-align: center;
+
+}
+
+.main {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+
+}
+
+.img1 {
+    display: block;
+    width: 300px;
+    /*to center the image*/
+
+    /*to center the image*/
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 100px;
+    /*to center the image*/
+
+}
+
+.one {
+    display: block;
+    width: 400px;
+    margin-left: 20px;
+    margin-right: 10000px;
+    border-radius: 200px;
+    padding: 10px;
+}
+
+.serach {
+    margin-top: 20px;
+    border-radius: 20px;
+
+}
+
+.search {
+    margin-left: 10px;
+}
+
+.lucky {
+    margin-left: 20px;
+}

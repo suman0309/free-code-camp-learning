@@ -1,0 +1,7 @@
+version control system->git,local system
+online platfrom to store and share code->github,online
+save=commits
+mergingings multiple plp on a common project avoid coflicts
+saas product purchased by microsoft
+
+

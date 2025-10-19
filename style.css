@@ -1,0 +1,76 @@
+body {
+    margin: 20px;
+}
+
+/* \\go to coolors for color pallet\\ */
+.main {
+    border: 1px solid black;
+    border-radius: 30px;
+    border-width: auto;
+    background-color: rgb(58, 55, 97);
+    color: rgb(74, 13, 13);
+    padding: 50px;
+    margin: 30px;
+    text-align: center;
+    width: 80%;
+    height: auto;
+    box-shadow: 10px 10px 5px grey;
+    display: flex;
+    display: space-evenly;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    max-width: 100%;
+    margin-top: 100px;
+    height: 35vh;
+    margin-bottom: 20px;
+    width: 35vh;
+    border-radius: 20px;
+}
+
+input {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

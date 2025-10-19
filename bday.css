@@ -1,0 +1,47 @@
+.mymg {
+    width: 30vh;
+    border: 5px solid rgb(114, 127, 163);
+    border-radius: 150px;
+    height: 30vh;
+    margin-left: 140px;
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+
+
+.head {
+    border: 10px solid rgb(248, 249, 250);
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-image: url("my\ img.img.png");
+    background-size: cover;
+    margin: 20px;
+
+
+}
+
+.head:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+    background-image: url("https://funkylife.in/wp-content/uploads/2021/11/happy-birthday-images-46-1024x1024.jpg");
+    box-shadow: 5px 5px 5px black;
+    background-size: cover;
+}
+
+body {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 120px;
+    margin-right: 120px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    /* background-color: aqua; */
+    flex-direction: column;
+    background: linear-gradient(to bottom, #825312 0%, #edcc7f 100%);
+}
